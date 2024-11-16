@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe>
+<recipe application="qbrew" version="0.4.1">
+  <title>Scss</title>
+  <brewer>Scss</brewer>
+  <style>Generic Ale</style>
+  <batch quantity="5.00 gal"/>
+  <grains/>
+  <hops/>
+  <miscingredients/>
+</recipe>
